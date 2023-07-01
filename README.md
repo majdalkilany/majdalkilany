@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently Learning **React && Roby on Rails**
+- 🔭 I’m currently Learning **React && Ruby on Rails**
 
-- 🌱 I’m currently learning **React && Roby on Rails**
+- 🌱 I’m currently learning **React && Ruby on Rails**
 
 - 📫 How to reach me **majdkilany92@gmail.com**
 
